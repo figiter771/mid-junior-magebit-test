@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mid-junior-magebit-test/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/mid-junior-magebit-test/static/js/main.560f1000.chunk.js",
+    "main.js.map": "/mid-junior-magebit-test/static/js/main.560f1000.chunk.js.map",
+    "runtime-main.js": "/mid-junior-magebit-test/static/js/runtime-main.310cafd4.js",
+    "runtime-main.js.map": "/mid-junior-magebit-test/static/js/runtime-main.310cafd4.js.map",
+    "static/js/2.f37db702.chunk.js": "/mid-junior-magebit-test/static/js/2.f37db702.chunk.js",
+    "static/js/2.f37db702.chunk.js.map": "/mid-junior-magebit-test/static/js/2.f37db702.chunk.js.map",
+    "static/js/3.6ff217f5.chunk.js": "/mid-junior-magebit-test/static/js/3.6ff217f5.chunk.js",
+    "static/js/3.6ff217f5.chunk.js.map": "/mid-junior-magebit-test/static/js/3.6ff217f5.chunk.js.map",
+    "index.html": "/mid-junior-magebit-test/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/mid-junior-magebit-test/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f37db702.chunk.js.LICENSE.txt": "/mid-junior-magebit-test/static/js/2.f37db702.chunk.js.LICENSE.txt",
+    "static/media/pineapple.d39406bb.svg": "/mid-junior-magebit-test/static/media/pineapple.d39406bb.svg",
+    "static/media/pineappleIcon.c81004ce.svg": "/mid-junior-magebit-test/static/media/pineappleIcon.c81004ce.svg",
+    "static/media/summer.349efca8.png": "/mid-junior-magebit-test/static/media/summer.349efca8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.310cafd4.js",
+    "static/js/2.f37db702.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.560f1000.chunk.js"
+  ]
+}

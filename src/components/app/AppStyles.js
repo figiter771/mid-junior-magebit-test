@@ -63,17 +63,18 @@ export const Paragraph = styled.p`
   margin-bottom: 16px;
 `
 export const EmailContainer = styled.div`
-  position: relative;
-  display:flex;
+  display:inline-flex;
   margin-top:20px;
   margin-bottom:20px;
-  width: 120%;
+  width: calc(15vw + 170px + 50px);
+  min-width:420px;
   z-index:99;
-
+  position: relative;
 `
 
 export const Email = styled.input`
-  flex:1;
+  position: relative;
+  width:100%;
   background: #FFFFFF;
   border: 1px solid #E3E3E4;
   border-right: 0px;
@@ -85,12 +86,14 @@ export const Email = styled.input`
 
 `
 export const EmailDecoration = styled.div`
+  position: relative;
   width:5px;
   height: 50px;
   background: #4066A5;
 `
 
 export const EmailButton = styled.button`
+  position: relative;
   font-family: Georgia;
   font-size: 32px;
   font-style: normal;
@@ -101,6 +104,8 @@ export const EmailButton = styled.button`
   color: #131821;
   border: 1px solid #E3E3E4;
   border-left: 0px;
+  width: 50px;
+
   transition: all 0.3s;
   &:hover{
     background:#4066A5;
